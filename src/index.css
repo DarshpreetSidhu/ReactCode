@@ -1,0 +1,72 @@
+.header{
+    color:red;
+}
+.body{
+    font-size: 32px;
+}
+input{
+    width:300px;
+    height:35px;
+    font-size: 26px;
+    margin:10px;
+
+}
+.radio-checkbox {
+    width:auto;
+    height:auto;
+    font-size:25px;
+    margin:auto;
+    margin-left:10px;
+
+}
+.select{
+    width:300px;
+    height:35px;
+    font-size: 25px;
+}
+.error-msg{
+    color:red;
+    font-size:16px;
+}
+.closed-eye{
+    width:50px;
+    height:42px;
+}
+.open-eye{
+    width:50px;
+
+}
+.header{
+    height:50px;
+    border:3px solid red;
+}
+.wapper{
+    height: 90vh;
+    display:flex;
+    flex-direction: row;
+}
+.sidebar{
+    width:250px;
+    border:3px solid red;
+    height:90vh;
+    display:flex;
+    flex-direction: column;
+}
+.content{
+    width: 500px;
+    height:90vh;
+}
+.nav-btn{
+    color: red;
+    text-decoration: none;
+    border:1px solid red;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.active-btn{
+    color:black;
+    background-color:grey;
+    border:1px solid red;
+}
